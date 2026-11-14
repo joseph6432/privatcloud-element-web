@@ -5,9 +5,9 @@
             "server_name": "matrix.org"
         }
     },
-    "disable_custom_urls": false,
+    "disable_custom_urls": true,
     "disable_guests": true,
-    "disable_login_language_selector": false,
+    "disable_login_language_selector": true,
     "disable_3pid_login": false,
     "brand": "PrivatCloud Chat",
     "default_country_code": "DE",

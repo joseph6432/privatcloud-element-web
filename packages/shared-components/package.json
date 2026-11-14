@@ -88,7 +88,6 @@
     },
     "devDependencies": {
         "@element-hq/element-web-playwright-common": "workspace:*",
-        "shared-types": "workspace:*",
         "@fetch-mock/vitest": "^0.2.18",
         "@fontsource/inter": "catalog:",
         "@microsoft/api-extractor": "^7.56.0",
@@ -103,6 +102,7 @@
         "@testing-library/react": "^16.3.2",
         "@testing-library/user-event": "^14.6.1",
         "@types/counterpart": "^0.18.4",
+        "@types/events": "^3.0.3",
         "@types/lodash": "^4.17.20",
         "@types/node": "catalog:ts6",
         "@types/react": "catalog:",
@@ -113,6 +113,7 @@
         "@vitest/browser-playwright": "catalog:",
         "expect": "^30.5.1",
         "oxfmt": "0.75.0",
+        "shared-types": "workspace:*",
         "storybook": "10.6.2",
         "storybook-addon-vis": "^4.0.0",
         "typedoc": "^0.28.16",
@@ -129,7 +130,7 @@
     },
     "peerDependencies": {
         "@vector-im/compound-web": "^8.3.5 || ^9.0.0 || ^10.0.0",
-        "react-dom": "catalog:",
-        "react": "catalog:"
+        "react": "catalog:",
+        "react-dom": "catalog:"
     }
 }
