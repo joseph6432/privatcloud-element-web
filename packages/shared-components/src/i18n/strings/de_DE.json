@@ -421,7 +421,7 @@
             "no_participants": "Niemand ist in diesem Anruf",
             "participants": "Teilnehmende",
             "status": "%(roomId)s · Intent %(intent)s · %(state)s · Design %(theme)s · Sprache %(language)s",
-            "title": "Element Call (Mock)",
+            "title": "PrivatCloud Call (Mock)",
             "unknown_room": "Unbekannter Chat %(roomId)s",
             "unmute_audio": "Audio-Stummschaltung aufheben",
             "unmute_video": "Video aktivieren"

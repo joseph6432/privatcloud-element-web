@@ -106,9 +106,9 @@ describe("TextualBodyViewModel", () => {
 
         expect(vm.getSnapshot().bodyWrapper).toBe(TextualBodyViewBodyWrapperKind.NONE);
 
-        vm.setHighlightLink("https://element.io");
+        vm.setHighlightLink("https://knapp-seligenstadt.de");
         expect(vm.getSnapshot().bodyWrapper).toBe(TextualBodyViewBodyWrapperKind.LINK);
-        expect(vm.getSnapshot().bodyLinkHref).toBe("https://element.io");
+        expect(vm.getSnapshot().bodyLinkHref).toBe("https://knapp-seligenstadt.de");
 
         vm.setHighlightLink(undefined);
         expect(vm.getSnapshot().bodyWrapper).toBe(TextualBodyViewBodyWrapperKind.NONE);

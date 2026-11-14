@@ -621,7 +621,7 @@
         "stop_voice_message": "녹화 중지",
         "voice_message_button": "음성 메세지"
     },
-    "console_dev_note": "Element는 오픈소스입니다. 사용법을 알고 계시다면, 저희 GitHub(https://github.com/vector-im/element-web/)를 꼭 확인해 보시고 기여해 주세요!",
+    "console_dev_note": "PrivatCloud Chat는 오픈소스입니다. 사용법을 알고 계시다면, 저희 GitHub(https://github.com/vector-im/element-web/)를 꼭 확인해 보시고 기여해 주세요!",
     "console_scam_warning": "누군가 여기서 무언가를 복사/붙여넣으라고 했다면, 사기일 가능성이 매우 높습니다!",
     "console_wait": "잠시 기다려 주세요.",
     "create_room": {
@@ -847,7 +847,7 @@
         "setting_definition": "설정 정의:",
         "setting_id": "Setting ID",
         "settings": {
-            "elementCallUrl": "Element 통화 URL"
+            "elementCallUrl": "PrivatCloud Chat 통화 URL"
         },
         "settings_explorer": "설정 탐색기",
         "show_empty_content_events": "빈 콘텐츠가 있는 이벤트 표시",
@@ -1459,7 +1459,7 @@
         "bridge_state_workspace": "작업 공간:<networkLink/>",
         "click_for_info": "자세한 내용을 보려면 클릭하세요",
         "currently_experimental": "현재 실험 중입니다.",
-        "element_call_video_rooms": "Element Call 영상 채팅방",
+        "element_call_video_rooms": "PrivatCloud Call 영상 채팅방",
         "encrypted_state_events": "암호화된 상태 이벤트(MSC4362)",
         "encrypted_state_events_description": "상태 이벤트 암호화 실험 기능을 활성화하여 방 이름, 주제 등의 메타데이터를 서버로부터 숨깁니다. 단, 나중에 방에 참여하는 사용자나 MSC4362를 지원하지 않는 클라이언트 사용자에게는 이 정보가 표시되지 않습니다.",
         "exclude_insecure_devices": "메세지 송수신 시 보안이 취약한 기기 제외",
@@ -1504,7 +1504,7 @@
         "render_reaction_images": "반응에 사용자 정의 이미지 렌더링",
         "render_reaction_images_description": "때로는 \"사용자 정의 이모지\"라고도 불립니다.",
         "sliding_sync": "슬라이딩 동기화 모드",
-        "sliding_sync_description": "개발 진행 중인 기능이며 비활성화는 불가능합니다. 현재 Element Call 기능은 지원하지 않습니다.",
+        "sliding_sync_description": "개발 진행 중인 기능이며 비활성화는 불가능합니다. 현재 PrivatCloud Call 기능은 지원하지 않습니다.",
         "sliding_sync_disabled_notice": "기능을 해제하려면 다시 로그인하세요",
         "sliding_sync_server_no_support": "서버에서 지원하지 않는 기능입니다.",
         "unrealiable_e2e": "암호화된 방에서는 신뢰할 수 없음",
@@ -2865,13 +2865,13 @@
             "auto_gain_control": "자동 이득 제어",
             "dialog_title": "<strong>설정:</strong> 음성 및 영상",
             "echo_cancellation": "에코 제거",
-            "echo_cancellation_description": "통화 중 마이크 입력에서 에코를 제거합니다. 이 설정은 Element Call에도 적용됩니다.",
+            "echo_cancellation_description": "통화 중 마이크 입력에서 에코를 제거합니다. 이 설정은 PrivatCloud Call에도 적용됩니다.",
             "enable_fallback_ice_server": "대체 통화 지원 서버 허용 (%(server)s)",
             "enable_fallback_ice_server_description": "홈 서버에서 제공하지 않는 경우에만 적용됩니다. 통화 중 귀하의 IP 주소가 공유될 수 있습니다.",
             "mirror_local_feed": "보고 있는 비디오 전송 상태 비추기",
             "missing_permissions_prompt": "미디어 권한이 없습니다, 권한 요청을 보내려면 아래 버튼을 클릭하세요.",
             "noise_suppression": "잡음 억제",
-            "noise_suppression_description": "통화 중 마이크로 입력되는 주변 소음을 줄여줍니다. 이 설정은 Element Call에도 적용됩니다.",
+            "noise_suppression_description": "통화 중 마이크로 입력되는 주변 소음을 줄여줍니다. 이 설정은 PrivatCloud Call에도 적용됩니다.",
             "request_permissions": "미디어 권한 요청",
             "title": "음성 & 영상",
             "video_input_empty": "카메라 감지 없음",
@@ -3681,7 +3681,7 @@
         "disabled_no_perms_start_video_call": "영상 통화를 시작할 권한이 없습니다.",
         "disabled_no_perms_start_voice_call": "음성 통화를 시작할 권한이 없습니다.",
         "disabled_ongoing_call": "통화 중",
-        "element_call": "Element 통화",
+        "element_call": "PrivatCloud Chat 통화",
         "enable_camera": "카메라 켜기",
         "enable_microphone": "마이크 음소거 해제",
         "expand": "통화로 돌아가기",
@@ -3753,7 +3753,7 @@
     "web_default_device_name": "%(appName)s: %(browserName)s on %(osName)s",
     "welcome": {
         "tagline_element": "압도적인 속도와 간결함.",
-        "title_element": "가장 나다운 공간, Element에서",
+        "title_element": "가장 나다운 공간, PrivatCloud Chat에서",
         "title_generic": "%(brand)s에 오신 것을 환영합니다"
     },
     "widget": {

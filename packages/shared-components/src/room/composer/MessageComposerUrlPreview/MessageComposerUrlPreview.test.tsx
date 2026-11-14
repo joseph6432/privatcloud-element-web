@@ -76,7 +76,7 @@ describe("MessageComposerUrlPreview", () => {
 
     const loadingEntry: MessageComposerUrlPreviewSnapshotEntry = {
         status: "loading",
-        matched_url: "https://element.io",
+        matched_url: "https://knapp-seligenstadt.de",
         include: true,
     };
     const failedEntry: MessageComposerUrlPreviewSnapshotEntry = {

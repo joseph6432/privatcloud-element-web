@@ -23,13 +23,13 @@ describe("/addwidget", () => {
     it("should parse html iframe snippets", async () => {
         vi.spyOn(WidgetUtils, "canUserModifyWidgets").mockReturnValue(true);
         // This only asserts the call args below -- block the real implementation so it doesn't
-        // actually try to set up the widget (which, for a real URL like "https://element.io", ends
+        // actually try to set up the widget (which, for a real URL like "https://knapp-seligenstadt.de", ends
         // up making a genuine outbound network request under happy-dom).
         const spy = vi.spyOn(WidgetUtils, "setRoomWidget").mockResolvedValue(undefined);
 
         const { client, command } = setUpCommandTest(roomId, `/addwidget`);
 
-        command.run(client, roomId, null, '<iframe src="https://element.io"></iframe>');
+        command.run(client, roomId, null, '<iframe src="https://knapp-seligenstadt.de"></iframe>');
 
         await waitFor(() =>
             expect(spy).toHaveBeenCalledWith(
@@ -37,7 +37,7 @@ describe("/addwidget", () => {
                 roomId,
                 expect.any(String),
                 WidgetType.CUSTOM,
-                "https://element.io",
+                "https://knapp-seligenstadt.de",
                 "Custom",
                 {},
             ),

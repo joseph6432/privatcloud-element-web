@@ -421,7 +421,7 @@
             "no_participants": "Det är ingen som deltar i detta samtal",
             "participants": "Deltagare",
             "status": "%(roomId)s · avsikt %(intent)s · %(state)s · tema %(theme)s · språk %(language)s",
-            "title": "Element Call (mock)",
+            "title": "PrivatCloud Call (mock)",
             "unknown_room": "Okänt rum %(roomId)s",
             "unmute_audio": "Aktivera ljud",
             "unmute_video": "Aktivera videon"

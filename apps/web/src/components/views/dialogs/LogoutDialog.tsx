@@ -162,7 +162,7 @@ export default function LogoutDialog(props: IProps): JSX.Element {
             >
                 <EncryptionCardEmphasisedContent>
                     <Text>{_t("auth|logout_dialog|setup_secure_backup_description")}</Text>
-                    <Text as="a" target="_blank" href="https://element.io/en/help#encryption16">
+                    <Text as="a" target="_blank" href="https://knapp-seligenstadt.de/en/help#encryption16">
                         {_t("action|learn_more")} <PopOutIcon />
                     </Text>
                 </EncryptionCardEmphasisedContent>

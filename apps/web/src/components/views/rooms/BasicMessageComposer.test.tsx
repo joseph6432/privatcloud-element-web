@@ -44,7 +44,7 @@ describe("BasicMessageComposer", () => {
                 <SDKContext.Provider value={SDKContextClass.instance}>{children}</SDKContext.Provider>
             ),
         });
-        const testUrl = "https://element.io";
+        const testUrl = "https://knapp-seligenstadt.de";
         const mockDataTransfer = generateMockDataTransferForString(testUrl);
         await userEvent.paste(mockDataTransfer);
 

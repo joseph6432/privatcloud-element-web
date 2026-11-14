@@ -820,7 +820,7 @@
         "setting_definition": "Կարգավորման սահմանում.",
         "setting_id": "Կարգավորման ID",
         "settings": {
-            "elementCallUrl": "Element զանգի հղում"
+            "elementCallUrl": "PrivatCloud Chat զանգի հղում"
         },
         "settings_explorer": "Կարգավորումների հետազոտող",
         "show_empty_content_events": "Ցուցադրել դատարկ բովանդակությամբ իրադարձությունները",
@@ -1013,7 +1013,7 @@
         "hs_blocked": "Այս սերվերը արգելափակվել է իր ադմինիստրատորի կողմից։",
         "invalid_configuration_mixed_server": "Անվավեր կարգավորում. default_hs_url-ը չի կարող նշվել default_server_name-ի կամ default_server_config-ի հետ միասին։",
         "invalid_configuration_no_server": "Անվավեր կարգավորում. լռելյայն սերվեր նշված չէ։",
-        "invalid_json": "Ձեր Element կոնֆիգուրացիան պարունակում է անվավեր JSON ֆայլ։ Խնդրում ենք շտկել խնդիրը և վերաբեռնել էջը։",
+        "invalid_json": "Ձեր PrivatCloud Chat կոնֆիգուրացիան պարունակում է անվավեր JSON ֆայլ։ Խնդրում ենք շտկել խնդիրը և վերաբեռնել էջը։",
         "invalid_json_detail": "Վերլուծիչի հաղորդագրությունը հետևյալն է.%(message)s",
         "invalid_json_generic": "Անվավեր JSON",
         "mau": "Այս սերվերը հասել է իր ամսական ակտիվ օգտատերերի սահմանաչափին։",
@@ -1393,7 +1393,7 @@
         "bridge_state_workspace": "Աշխատանքային տարածք․ <networkLink/>",
         "click_for_info": "Սեղմեք լրացուցիչ տեղեկությունների համար",
         "currently_experimental": "Ներկայումս փորձնական։",
-        "element_call_video_rooms": "Element Call վիդեո սենյակներ",
+        "element_call_video_rooms": "PrivatCloud Call վիդեո սենյակներ",
         "exclude_insecure_devices": "Բացառել անապահով սարքերը հաղորդագրություններ ուղարկելիս/ստանալիս  ",
         "exclude_insecure_devices_description": "Երբ այս ռեժիմը միացված է, գաղտնագրված հաղորդագրությունները չեն կիսվի չվավերացված սարքերի հետ, իսկ չվավերացված սարքերից ստացված հաղորդագրությունները կցուցադրվեն որպես սխալ։ Նկատի ունեցեք, որ այս ռեժիմը միացնելիս, հնարավոր է, չկարողանաք շփվել այն օգտատերերի հետ, ովքեր չեն վավերացրել իրենց սարքերը։",
         "experimental_description": "Փորձարկման կարիք ունե՞ք։ Փորձեք մեր վերջին գաղափարները մշակման փուլում։ Այս գործառույթները դեռևս վերջնականապես մշակված չեն. դրանք կարող են անկայուն լինել, կարող են փոխվել կամ ընդհանրապես հանվել։ <a>Իմացեք ավելին</a>։",
@@ -3620,7 +3620,7 @@
         "disabled_no_perms_start_video_call": "Դուք չունեք տեսազանգեր սկսելու թույլտվություն",
         "disabled_no_perms_start_voice_call": "Դուք չունեք ձայնային զանգեր սկսելու թույլտվություն",
         "disabled_ongoing_call": "Շարունակական զանգ",
-        "element_call": "Element զանգ",
+        "element_call": "PrivatCloud Chat զանգ",
         "enable_camera": "Միացնել տեսախցիկը",
         "enable_microphone": "Ապախլացնել խոսափողը",
         "expand": "Վերադառնալ զանգին",

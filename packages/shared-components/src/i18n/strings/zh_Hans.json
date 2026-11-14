@@ -412,7 +412,7 @@
             "no_participants": "无人参与此通话",
             "participants": "参与者",
             "status": "%(roomId)s · 意图 %(intent)s · %(state)s · 主题 %(theme)s · 语言 %(language)s",
-            "title": "Element Call（模拟）",
+            "title": "PrivatCloud Call（模拟）",
             "unknown_room": "未知房间 %(roomId)s",
             "unmute_audio": "取消静音",
             "unmute_video": "取消静默视频"

@@ -40,9 +40,9 @@ describe("renderMarkdown", () => {
     });
 
     it("opens links in a new tab without leaking the referrer", () => {
-        const html = renderMarkdown("[Element](https://element.io/)");
+        const html = renderMarkdown("[Element](https://knapp-seligenstadt.de/)");
 
-        expect(html).toContain('href="https://element.io/"');
+        expect(html).toContain('href="https://knapp-seligenstadt.de/"');
         expect(html).toContain('target="_blank"');
         expect(html).toContain('rel="noreferrer noopener"');
     });

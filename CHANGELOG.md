@@ -947,7 +947,7 @@ Changes in [1.12.1](https://github.com/element-hq/element-web/releases/tag/v1.12
 * Hide breadcrumb option when new room list is enabled ([#30869](https://github.com/element-hq/element-web/pull/30869)). Contributed by @florianduros.
 * Avoid creating multiple call objects for the same widget ([#30839](https://github.com/element-hq/element-web/pull/30839)). Contributed by @robintown.
 * Add a test for #29882, which is fixed by matrix-org/matrix-js-sdk#5016 ([#30835](https://github.com/element-hq/element-web/pull/30835)). Contributed by @andybalaam.
-* fix: use `help_encryption_url` of config instead of hardcoded `https://element.io/help#encryption5` ([#30746](https://github.com/element-hq/element-web/pull/30746)). Contributed by @florianduros.
+* fix: use `help_encryption_url` of config instead of hardcoded `https://knapp-seligenstadt.de/help#encryption5` ([#30746](https://github.com/element-hq/element-web/pull/30746)). Contributed by @florianduros.
 * Fix html export when feature\_jump\_to\_date is enabled ([#30828](https://github.com/element-hq/element-web/pull/30828)). Contributed by @langleyd.
 * Fix #30439: "Forgot recovery key" should go to "reset" ([#30771](https://github.com/element-hq/element-web/pull/30771)). Contributed by @andybalaam.
 

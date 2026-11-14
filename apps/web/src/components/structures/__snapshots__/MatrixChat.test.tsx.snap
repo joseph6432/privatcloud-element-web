@@ -145,7 +145,7 @@ exports[`<MatrixChat /> > Multi-tab lockout > waits for other tab to stop during
             >
               <a
                 class="mx_DefaultWelcome_logo"
-                href="https://element.io"
+                href="https://knapp-seligenstadt.de"
                 rel="noopener"
                 target="_blank"
               >
@@ -238,7 +238,7 @@ exports[`<MatrixChat /> > Multi-tab lockout > waits for other tab to stop during
       role="contentinfo"
     >
       <a
-        href="https://element.io/blog"
+        href="https://knapp-seligenstadt.de/blog"
         rel="noreferrer noopener"
         target="_blank"
       >
@@ -545,7 +545,7 @@ exports[`<MatrixChat /> > with a soft-logged-out session > should show the soft-
       role="contentinfo"
     >
       <a
-        href="https://element.io/blog"
+        href="https://knapp-seligenstadt.de/blog"
         rel="noreferrer noopener"
         target="_blank"
       >

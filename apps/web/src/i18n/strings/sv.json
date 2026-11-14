@@ -653,7 +653,7 @@
         "stop_voice_message": "Stoppa inspelning",
         "voice_message_button": "Röstmeddelanden"
     },
-    "console_dev_note": "Ifall du vet vad du gör: Element är öppen källkod, kolla gärna våran GitHub (https://github.com/vector-im/element-web/) och bidra!",
+    "console_dev_note": "Ifall du vet vad du gör: PrivatCloud Chat är öppen källkod, kolla gärna våran GitHub (https://github.com/vector-im/element-web/) och bidra!",
     "console_scam_warning": "Om någon sa åt dig att kopiera/klistra något när, så är det troligt att du blir lurad!",
     "console_wait": "Vänta!",
     "create_room": {
@@ -888,8 +888,8 @@
         "setting_definition": "Inställningsdefinition:",
         "setting_id": "Inställnings-ID",
         "settings": {
-            "elementCallMockComponent": "Använd mock-komponenten ”Element Call” (React transport, inga medier)",
-            "elementCallUrl": "Element Call-URL"
+            "elementCallMockComponent": "Använd mock-komponenten ”PrivatCloud Call” (React transport, inga medier)",
+            "elementCallUrl": "PrivatCloud Chat Call-URL"
         },
         "settings_explorer": "Inställningar",
         "show_empty_content_events": "Visa händelser med tomt innehåll",
@@ -1133,7 +1133,7 @@
         "invalid_json_detail": "Meddelandet från parsern är: %(message)s",
         "invalid_json_generic": "Ogiltig JSON",
         "mau": "Denna tjänst har nått sin gräns för antalet aktiva användare per månad.",
-        "misconfigured": "Din Element är felkonfigurerad",
+        "misconfigured": "Din PrivatCloud Chat är felkonfigurerad",
         "mixed_content": "Kan inte ansluta till en hemserver via HTTP då adressen i webbläsaren är HTTPS. Använd HTTPS, eller <a>aktivera osäkra skript</a>.",
         "non_urgent_echo_failure_toast": "Din server svarar inte på vissa <a>förfrågningar</a>.",
         "resource_limits": "Hemservern har överskridit en av sina resursgränser.",
@@ -1536,7 +1536,7 @@
         "currently_experimental": "För närvarande experimentellt.",
         "document_previews": "Förhandsvisningar av experimentella dokument",
         "document_previews_description": "Öppna PDF- och Markdown-bilagor i den högra panelen.",
-        "element_call_video_rooms": "Element Call videorum",
+        "element_call_video_rooms": "PrivatCloud Call videorum",
         "encrypted_state_events": "Krypterade tillståndshändelser (MSC4362)",
         "encrypted_state_events_description": "Aktiverar experimentellt stöd för encryption av tillståndshändelser, vilket döljer metadata som rumsnamn och rumsbeskrivningar från servern. Denna metadata kommer även att döljas för personer som ansluter sig till rummen senare, samt för personer vars klienter inte stöder MSC4362.",
         "exclude_insecure_devices": "Uteslut osäkra enheter när du skickar/tar emot meddelanden",
@@ -1544,9 +1544,9 @@
         "experimental_description": "Känner du dig äventyrlig? Pröva våra senaste idéer under utveckling. Dessa funktioner är inte slutförda; de kan vara instabila, kan ändras, eller kan tas bort helt. <a>Läs mer</a>.",
         "experimental_section": "Tidiga förhandstittar",
         "extended_profiles_msc_support": "Kräver att din server har stöd för MSC4133",
-        "feature_element_call_react": "Anropa Render Element som en React-komponent istället för en widget",
-        "feature_matrixrtc_slots": "Kräver lediga MatrixRTC-slots för Element Call-samtal",
-        "feature_matrixrtc_slots_description": "Tillåter endast att starta eller ansluta till Element Call-samtal med en giltig slot händelse i rummet.",
+        "feature_element_call_react": "Anropa Render PrivatCloud Chat som en React-komponent istället för en widget",
+        "feature_matrixrtc_slots": "Kräver lediga MatrixRTC-slots för PrivatCloud Chat Call-samtal",
+        "feature_matrixrtc_slots_description": "Tillåter endast att starta eller ansluta till PrivatCloud Chat Call-samtal med en giltig slot händelse i rummet.",
         "feature_retention": {
             "description": "Ta automatiskt bort messages från en rum när de har nått en angiven lagringstid. För närvarande stöds endast läsinställningar.",
             "disabled_sliding_sync": "Lagringsregler kan inte aktiveras när Sliding Sync är aktiverat.",
@@ -3037,7 +3037,7 @@
             "auto_gain_control": "Automatisk förstärkningskontroll",
             "dialog_title": "<strong>Inställningar: </strong> Röst och video",
             "echo_cancellation": "Ekoreducering",
-            "echo_cancellation_description": "Tar bort eko från din mikrofoningång under samtal. Denna inställning gäller även för Element Call.",
+            "echo_cancellation_description": "Tar bort eko från din mikrofoningång under samtal. Denna inställning gäller även för PrivatCloud Call.",
             "enable_fallback_ice_server": "Tillåt reservserver för samtalsassistans (%(server)s)",
             "enable_fallback_ice_server_description": "Gäller endast om din hemserver inte erbjuder en. Din IP-adress delas under samtal.",
             "enable_legacy_calls": "Aktivera Legacy call/videosamtal",
@@ -3045,7 +3045,7 @@
             "mirror_local_feed": "Spegla den lokala videoströmmen",
             "missing_permissions_prompt": "För att delta i samtal, ge %(brand)s åtkomst till din mikrofon och kamera.",
             "noise_suppression": "Brusreducering",
-            "noise_suppression_description": "Minskar bakgrundsljud i din mikrofoningång under samtal. Denna inställning gäller även för Element Call.",
+            "noise_suppression_description": "Minskar bakgrundsljud i din mikrofoningång under samtal. Denna inställning gäller även för PrivatCloud Call.",
             "permissions": "Tillåt åtkomst till mikrofon och kamera",
             "request_permissions": "Begäran",
             "title": "Röst & video",
@@ -3976,7 +3976,7 @@
         "disabled_ongoing_call": "Pågående samtal",
         "document_pip_close": "Återför samtalet till det här fönstret",
         "document_pip_open": "Öppna samtal i ett flytande fönster",
-        "element_call": "Element Call",
+        "element_call": "PrivatCloud Call",
         "element_call_mock": {
             "default": "standard",
             "not_called": "Inte ringd",

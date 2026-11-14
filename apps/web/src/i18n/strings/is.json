@@ -504,7 +504,7 @@
         "stop_voice_message": "Stöðva upptöku",
         "voice_message_button": "Talskilaboð"
     },
-    "console_dev_note": "Ef þú veist hvað þú átt að gera, þá er Element með opinn grunnkóða; þú getur alltaf skoðað kóðann á GitHub (https://github.com/vector-im/element-web/) og lagt þitt af mörkum!",
+    "console_dev_note": "Ef þú veist hvað þú átt að gera, þá er PrivatCloud Chat með opinn grunnkóða; þú getur alltaf skoðað kóðann á GitHub (https://github.com/vector-im/element-web/) og lagt þitt af mörkum!",
     "console_scam_warning": "Ef einhver sagði þér að afrita/líma eitthvað hér, eru miklar líkur á að það sé verið að gabba þig!",
     "console_wait": "Bíddu!",
     "create_room": {

@@ -2,7 +2,7 @@ Source: element-web
 Maintainer: Element <support@element.io>
 Section: web
 Priority: optional
-Homepage: https://element.io/
+Homepage: https://knapp-seligenstadt.de/
 
 Package: element-web
 Architecture: all

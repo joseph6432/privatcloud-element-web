@@ -58,7 +58,7 @@ exports[`LogoutDialog > Prompts user to set up recovery if there is a backup on 
         </p>
         <a
           class="_typography _font-body-md-regular"
-          href="https://element.io/en/help#encryption16"
+          href="https://knapp-seligenstadt.de/en/help#encryption16"
           target="_blank"
         >
           Learn more
@@ -211,7 +211,7 @@ exports[`LogoutDialog > Prompts user to set up recovery if there is no backup on
         </p>
         <a
           class="_typography _font-body-md-regular"
-          href="https://element.io/en/help#encryption16"
+          href="https://knapp-seligenstadt.de/en/help#encryption16"
           target="_blank"
         >
           Learn more
@@ -364,7 +364,7 @@ exports[`LogoutDialog > Prompts user to set up recovery if there is no backup on
         </p>
         <a
           class="_typography _font-body-md-regular"
-          href="https://element.io/en/help#encryption16"
+          href="https://knapp-seligenstadt.de/en/help#encryption16"
           target="_blank"
         >
           Learn more

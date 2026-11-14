@@ -421,7 +421,7 @@
             "no_participants": "Selles kõnes pole kedagi",
             "participants": "Osalejad",
             "status": "%(roomId)s · liidestuspäring %(intent)s · %(state)s · kujundus %(theme)s · keel %(language)s",
-            "title": "Element Call (simulatsioon)",
+            "title": "PrivatCloud Call (simulatsioon)",
             "unknown_room": "Tundmatu jututuba: %(roomId)s",
             "unmute_audio": "Lõpeta heli summutamine",
             "unmute_video": "Lõpeta video summutamine"

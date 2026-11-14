@@ -420,7 +420,7 @@
             "no_participants": "Senki sincs ebben a hívásban",
             "participants": "Résztvevők",
             "status": "%(roomId)s · intent: %(intent)s · %(state)s · téma: %(theme)s · nyelv: %(language)s",
-            "title": "Element Call (szimulált)",
+            "title": "PrivatCloud Call (szimulált)",
             "unknown_room": "Ismeretlen %(roomId)s szoba",
             "unmute_audio": "Hang visszahangosítása",
             "unmute_video": "Videó visszahangosítása"

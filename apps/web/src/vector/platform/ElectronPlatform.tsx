@@ -537,7 +537,7 @@ export default class ElectronPlatform extends BasePlatform {
 
     public get defaultOAuthClientUri(): string {
         // Default to element.io as our scheme `io.element.desktop` is within its scope on default MAS policies
-        return "https://element.io";
+        return "https://knapp-seligenstadt.de";
     }
 
     public async getOAuthClientMetadata(): Promise<OAuthRegistrationRequest> {

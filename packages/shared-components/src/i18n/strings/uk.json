@@ -420,7 +420,7 @@
             "no_participants": "Ніхто не бере участі в цьому виклику",
             "participants": "Учасники",
             "status": "%(roomId)s · намір %(intent)s · %(state)s · тема %(theme)s · мова %(language)s",
-            "title": "Element Call (тестовий)",
+            "title": "PrivatCloud Call (тестовий)",
             "unknown_room": "Невідома кімната %(roomId)s",
             "unmute_audio": "Увімкнути звук аудіо",
             "unmute_video": "Увімкнути звук відео"

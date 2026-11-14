@@ -420,7 +420,7 @@
             "no_participants": "Nitko nije u ovom pozivu",
             "participants": "Sudionici",
             "status": "%(roomId)s · namjera %(intent)s · %(state)s · tema %(theme)s · jezik %(language)s",
-            "title": "Element Call (probni)",
+            "title": "PrivatCloud Call (probni)",
             "unknown_room": "Nepoznata soba %(roomId)s",
             "unmute_audio": "Uključi zvuk",
             "unmute_video": "Uključi zvuk videozapisa"

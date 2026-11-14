@@ -604,7 +604,7 @@
         "stop_voice_message": "Pārtraukt ierakstīšanu",
         "voice_message_button": "Balss ziņa"
     },
-    "console_dev_note": "Ja jūs zināt, ko jūs darāt, Element ir atvērtā koda, noteikti apskatiet mūsu GitHub (https://github.com/vector-im/element-web/) un piedalieties!",
+    "console_dev_note": "Ja jūs zināt, ko jūs darāt, PrivatCloud Chat ir atvērtā koda, noteikti apskatiet mūsu GitHub (https://github.com/vector-im/element-web/) un piedalieties!",
     "console_scam_warning": "Ja kāds jums lika šeit kaut ko kopēt/ielīmēt, pastāv liela iespēja, ka jūs tiksiet apkrāpts!",
     "console_wait": "Pagaidiet!",
     "create_room": {
@@ -1181,7 +1181,7 @@
         "bridge_state_workspace": "Darbavieta: <networkLink/>",
         "click_for_info": "Noklikšķiniet, lai iegūtu vairāk informācijas",
         "currently_experimental": "Pašlaik eksperimentāls.",
-        "element_call_video_rooms": "Element Call video istabas",
+        "element_call_video_rooms": "PrivatCloud Call video istabas",
         "experimental_description": "Vai jūtaties gatavs eksperimentiem? Izmēģiniet mūsu jaunākās idejas izstrādes stadijā. Šīs funkcijas nav pabeigtas un var būt nestabilas, var mainīties vai vispār var tikt atmestas. <a> Uzzināt vairāk</a> .",
         "experimental_section": "Agrīnie priekšskatījumi",
         "feature_wysiwyg_composer_description": "Ziņu sastādītājā Markdown vietā izmantot bagātinātu tekstu.",

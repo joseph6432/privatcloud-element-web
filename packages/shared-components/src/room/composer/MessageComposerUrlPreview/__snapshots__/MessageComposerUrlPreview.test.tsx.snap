@@ -328,7 +328,7 @@ exports[`MessageComposerUrlPreview > loading entries > renders the loading place
         >
           <a
             class="_typography_6v6n8_153 _font-body-md-semibold_6v6n8_55 MessageComposerUrlPreview-module_title MessageComposerUrlPreview-module_linkTitle"
-            href="https://element.io"
+            href="https://knapp-seligenstadt.de"
             rel="noreferrer noopener"
             target="_blank"
           >
@@ -644,7 +644,7 @@ exports[`MessageComposerUrlPreview > renders a mix of loaded, loading and failed
         >
           <a
             class="_typography_6v6n8_153 _font-body-md-semibold_6v6n8_55 MessageComposerUrlPreview-module_title MessageComposerUrlPreview-module_linkTitle"
-            href="https://element.io"
+            href="https://knapp-seligenstadt.de"
             rel="noreferrer noopener"
             target="_blank"
           >

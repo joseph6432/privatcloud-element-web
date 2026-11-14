@@ -426,7 +426,7 @@
             "no_participants": "Nikt nie bierze udziału w tej rozmowie",
             "participants": "Uczestnicy",
             "status": "%(roomId)s · intent %(intent)s · %(state)s · theme %(theme)s · language %(language)s",
-            "title": "Element Call (mock)",
+            "title": "PrivatCloud Call (mock)",
             "unknown_room": "Nieznany pokój %(roomId)s",
             "unmute_audio": "Wyłącz wyciszenie dźwięku",
             "unmute_video": "Włącz wideo"

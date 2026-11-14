@@ -565,7 +565,7 @@
         "stop_voice_message": "Atsaharo ny firaketana",
         "voice_message_button": "Hafatra feo"
     },
-    "console_dev_note": "Raha fantatrao ny ataonao dia loharano misokatra ny Element, aza hadino ny mijery ny GitHub (https://github.com/vector-im/element-web/) ary mandray anjara!",
+    "console_dev_note": "Raha fantatrao ny ataonao dia loharano misokatra ny PrivatCloud Chat, aza hadino ny mijery ny GitHub (https://github.com/vector-im/element-web/) ary mandray anjara!",
     "console_scam_warning": "Raha misy miteny aminao hoe mandika/mametaka zavatra eto dia mety ho voafitaka ianao!",
     "console_wait": "Andraso!",
     "create_room": {

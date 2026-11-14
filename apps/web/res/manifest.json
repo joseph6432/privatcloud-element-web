@@ -1,6 +1,6 @@
 {
-    "name": "Element",
-    "short_name": "Element",
+    "name": "PrivatCloud Chat",
+    "short_name": "PrivatCloud Chat",
     "display": "standalone",
     "theme_color": "#76CFA6",
     "start_url": "index.html",

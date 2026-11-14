@@ -33,7 +33,7 @@ function loadLocalConfigFile(location: string | undefined): JsonDocument {
 
 const DEFAULTS = {
     brand: "Element",
-    help_url: "https://element.io/help",
+    help_url: "https://knapp-seligenstadt.de/help",
     web_base_url: "https://app.element.io/",
 } satisfies DesktopConfigJson;
 

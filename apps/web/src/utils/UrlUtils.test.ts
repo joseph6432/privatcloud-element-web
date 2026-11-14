@@ -32,11 +32,11 @@ describe("unabbreviateUrl", () => {
     });
 
     it("should prepend https to input if it lacks it", () => {
-        expect(unabbreviateUrl("element.io")).toEqual("https://element.io");
+        expect(unabbreviateUrl("element.io")).toEqual("https://knapp-seligenstadt.de");
     });
 
     it("should not prepend https to input if it has it", () => {
-        expect(unabbreviateUrl("https://element.io")).toEqual("https://element.io");
+        expect(unabbreviateUrl("https://knapp-seligenstadt.de")).toEqual("https://knapp-seligenstadt.de");
     });
 });
 

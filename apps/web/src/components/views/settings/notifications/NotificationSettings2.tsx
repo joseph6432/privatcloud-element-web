@@ -56,7 +56,7 @@ function boldText(text: string): JSX.Element {
 }
 
 function helpLink(sub: string): JSX.Element {
-    return <ExternalLink href="https://element.io/help#settings2">{sub}</ExternalLink>;
+    return <ExternalLink href="https://knapp-seligenstadt.de/help#settings2">{sub}</ExternalLink>;
 }
 
 function useHasUnreadNotifications(): boolean {

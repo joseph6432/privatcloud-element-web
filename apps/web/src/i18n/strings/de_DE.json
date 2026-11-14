@@ -653,7 +653,7 @@
         "stop_voice_message": "Aufnahme beenden",
         "voice_message_button": "Sprachnachricht"
     },
-    "console_dev_note": "Falls du weißt, was du machst: Element ist Open Source! Checke unser GitHub aus (https://github.com/vector-im/element-web/) und hilf mit!",
+    "console_dev_note": "Falls du weißt, was du machst: PrivatCloud Chat ist Open Source! Checke unser GitHub aus (https://github.com/vector-im/element-web/) und hilf mit!",
     "console_scam_warning": "Wenn dir jemand gesagt hat, dass du hier etwas einfügen sollst, ist die Wahrscheinlichkeit sehr groß, dass du von der Person betrogen wirst!",
     "console_wait": "Warte!",
     "create_room": {
@@ -888,8 +888,8 @@
         "setting_definition": "Definition der Einstellung:",
         "setting_id": "Einstellungs-ID",
         "settings": {
-            "elementCallMockComponent": "Mock-Komponente von Element Call verwenden (React-Transport, keine Medien)",
-            "elementCallUrl": "Element Call URL"
+            "elementCallMockComponent": "Mock-Komponente von PrivatCloud Call verwenden (React-Transport, keine Medien)",
+            "elementCallUrl": "PrivatCloud Call URL"
         },
         "settings_explorer": "Einstellungsübersicht",
         "show_empty_content_events": "Events mit leerem Inhalt anzeigen",
@@ -1129,11 +1129,11 @@
         "hs_blocked": "Dieser Dienst wurde vom Kontoanbieter gesperrt.",
         "invalid_configuration_mixed_server": "Ungültige Konfiguration: default_hs_url kann nicht zeitgleich mit default_server_name oder default_server_config festgelegt werden",
         "invalid_configuration_no_server": "Ungültige Konfiguration: Es wurde kein Standardserver angegeben.",
-        "invalid_json": "Deine Element-Konfiguration enthält ungültiges JSON. Bitte korrigiere das Problem und lade die Seite neu.",
+        "invalid_json": "Deine PrivatCloud Chat-Konfiguration enthält ungültiges JSON. Bitte korrigiere das Problem und lade die Seite neu.",
         "invalid_json_detail": "Die Nachricht des Parsers ist: %(message)s",
         "invalid_json_generic": "Ungültiges JSON",
         "mau": "Dieser Dienst hat sein Limit für monatlich aktive Nutzer erreicht.",
-        "misconfigured": "Dein Element ist falsch konfiguriert",
+        "misconfigured": "Dein PrivatCloud Chat ist falsch konfiguriert",
         "mixed_content": "Es kann keine Verbindung zum Homeserver über HTTP aufgebaut werden, wenn die Adresszeile des Browsers eine HTTPS-URL enthält. Verwende entweder HTTPS oder <a>erlaube unsichere Skripte</a>.",
         "non_urgent_echo_failure_toast": "Dein Server antwortet auf einige <a>Anfragen</a> nicht.",
         "resource_limits": "Dieser Dienst hat eines seiner Ressourcenlimits überschritten.",
@@ -1534,7 +1534,7 @@
         "currently_experimental": "Aktuell experimentell.",
         "document_previews": "Experimentelle Dokumentvorschau",
         "document_previews_description": "Öffnet PDF- und Markdown-Anhänge in der rechten Seitenleiste.",
-        "element_call_video_rooms": "Element Call-Videochats",
+        "element_call_video_rooms": "PrivatCloud Chat Call-Videochats",
         "encrypted_state_events": "Verschlüsselte State-Events (MSC4362)",
         "encrypted_state_events_description": "Aktiviert die experimentelle Unterstützung für die Verschlüsselung von State-Events. Dadurch werden Metadaten wie Chatname und Thema vor dem Server verborgen. Sie bleiben außerdem für Personen verborgen, die dem Chat später beitreten, sowie für Personen, deren Clients MSC4362 nicht unterstützen.",
         "exclude_insecure_devices": "Unsichere Geräte ausschließen beim senden/empfangen von Nachrichten",
@@ -1542,9 +1542,9 @@
         "experimental_description": "Experimentierfreudig? Probiere unsere neuesten, sich in Entwicklung befindlichen Ideen aus. Diese Funktionen sind nicht final; Sie könnten instabil sein, sich verändern oder sogar ganz entfernt werden. <a>Erfahre mehr</a>.",
         "experimental_section": "Frühe Vorschauen",
         "extended_profiles_msc_support": "Erfordert die Unterstützung von MSC4133 durch den Server",
-        "feature_element_call_react": "Element Call als React-Komponente statt als Widget darstellen",
-        "feature_matrixrtc_slots": "Offene MatrixRTC-Slots für Element Call-Anrufe voraussetzen",
-        "feature_matrixrtc_slots_description": "Erlaubt das Starten von und den Beitritt zu Element Call-Anrufen nur mit einem gültigen Slot-State-Event im Chat.",
+        "feature_element_call_react": "PrivatCloud Call als React-Komponente statt als Widget darstellen",
+        "feature_matrixrtc_slots": "Offene MatrixRTC-Slots für PrivatCloud Chat Call-Anrufe voraussetzen",
+        "feature_matrixrtc_slots_description": "Erlaubt das Starten von und den Beitritt zu PrivatCloud Chat Call-Anrufen nur mit einem gültigen Slot-State-Event im Chat.",
         "feature_retention": {
             "description": "Entfernt Nachrichten automatisch aus einem Chat, sobald die konfigurierte Aufbewahrungsfrist erreicht ist. Unterstützt derzeit nur das Lesen der Einstellungen.",
             "disabled_sliding_sync": "Die Aufbewahrungsfrist kann nicht aktiviert werden, solange Sliding Sync aktiviert ist.",
@@ -1589,7 +1589,7 @@
         "render_reaction_images": "Benutzerdefinierte Bilder in Reaktionen anzeigen",
         "render_reaction_images_description": "Werden manchmal auch als „benutzerdefinierte Emojis“ bezeichnet.",
         "sliding_sync": "Sliding-Sync-Modus",
-        "sliding_sync_description": "In aktiver Entwicklung, kann nicht deaktiviert werden. Derzeit nicht mit Element Call kompatibel.",
+        "sliding_sync_description": "In aktiver Entwicklung, kann nicht deaktiviert werden. Derzeit nicht mit PrivatCloud Call kompatibel.",
         "sliding_sync_disabled_notice": "Zum Deaktivieren erneut anmelden",
         "sliding_sync_server_no_support": "Dein Server unterstützt dies nicht",
         "unrealiable_e2e": "Nicht zuverlässig in verschlüsselten Chats",
@@ -3033,7 +3033,7 @@
             "auto_gain_control": "Automatische Lautstärkeregelung",
             "dialog_title": "<strong>Einstellungen:</strong> Sprache und Video",
             "echo_cancellation": "Echounterdrückung",
-            "echo_cancellation_description": "Entfernt das Echo aus deinem Mikrofon während Anrufen. Diese Einstellung gilt auch für Element Call.",
+            "echo_cancellation_description": "Entfernt das Echo aus deinem Mikrofon während Anrufen. Diese Einstellung gilt auch für PrivatCloud Call.",
             "enable_fallback_ice_server": "Ersatz-Anrufassistenz-Server erlauben (%(server)s)",
             "enable_fallback_ice_server_description": "Gilt nur, wenn dein Kontoanbieter keinen anbietet. Deine IP-Adresse würde während eines Anrufs geteilt werden.",
             "enable_legacy_calls": "Legacy-Sprach- und Videoanrufe aktivieren",
@@ -3041,7 +3041,7 @@
             "mirror_local_feed": "Lokalen Video-Feed spiegeln",
             "missing_permissions_prompt": "Um an Anrufen teilzunehmen, erteile %(brand)s Zugriff auf dein Mikrofon und deine Kamera.",
             "noise_suppression": "Rauschunterdrückung",
-            "noise_suppression_description": "Reduziert Hintergrundgeräusche in deinem Mikrofon während Anrufen. Diese Einstellung gilt auch für Element Call.",
+            "noise_suppression_description": "Reduziert Hintergrundgeräusche in deinem Mikrofon während Anrufen. Diese Einstellung gilt auch für PrivatCloud Call.",
             "permissions": "Zugriff auf Mikrofon und Kamera erlauben",
             "request_permissions": "Anfordern",
             "title": "Anrufe",
@@ -3972,7 +3972,7 @@
         "disabled_ongoing_call": "laufender Anruf",
         "document_pip_close": "Anruf zurück in dieses Fenster holen",
         "document_pip_open": "Anruf in einem schwebenden Fenster öffnen",
-        "element_call": "Element Anruf",
+        "element_call": "PrivatCloud Chat Anruf",
         "element_call_mock": {
             "default": "Standard",
             "not_called": "nicht aufgerufen",
@@ -4052,7 +4052,7 @@
     "web_default_device_name": "%(appName)s: %(browserName)s auf %(osName)s",
     "welcome": {
         "tagline_element": "Gemacht für Tempo und Einfachheit.",
-        "title_element": "Sei in deinem Element",
+        "title_element": "Sei in deinem PrivatCloud Chat",
         "title_generic": "Willkommen bei %(brand)s"
     },
     "widget": {

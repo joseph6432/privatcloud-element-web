@@ -62,7 +62,7 @@ export default withMermaid({
     themeConfig: {
         nav: [
             { text: "Home", link: "/" },
-            { text: "Website", link: "https://element.io/en" },
+            { text: "Website", link: "https://knapp-seligenstadt.de/en" },
         ],
 
         search: {

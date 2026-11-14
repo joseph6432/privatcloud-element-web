@@ -412,7 +412,7 @@ Changes in [1.12.1](https://github.com/element-hq/element-desktop/releases/tag/v
 * Hide breadcrumb option when new room list is enabled ([#30869](https://github.com/element-hq/element-web/pull/30869)). Contributed by @florianduros.
 * Avoid creating multiple call objects for the same widget ([#30839](https://github.com/element-hq/element-web/pull/30839)). Contributed by @robintown.
 * Add a test for #29882, which is fixed by matrix-org/matrix-js-sdk#5016 ([#30835](https://github.com/element-hq/element-web/pull/30835)). Contributed by @andybalaam.
-* fix: use `help_encryption_url` of config instead of hardcoded `https://element.io/help#encryption5` ([#30746](https://github.com/element-hq/element-web/pull/30746)). Contributed by @florianduros.
+* fix: use `help_encryption_url` of config instead of hardcoded `https://knapp-seligenstadt.de/help#encryption5` ([#30746](https://github.com/element-hq/element-web/pull/30746)). Contributed by @florianduros.
 * Fix html export when feature\_jump\_to\_date is enabled ([#30828](https://github.com/element-hq/element-web/pull/30828)). Contributed by @langleyd.
 * Fix #30439: "Forgot recovery key" should go to "reset" ([#30771](https://github.com/element-hq/element-web/pull/30771)). Contributed by @andybalaam.
 
@@ -1271,7 +1271,7 @@ matrix-react-sdk is being forked by Element at https://github.com/element-hq/mat
 
 You can read more about this here:
 https://matrix.org/blog/2024/08/heart-of-matrix/
-https://element.io/blog/sustainable-licensing-at-element-with-agpl/ 
+https://knapp-seligenstadt.de/blog/sustainable-licensing-at-element-with-agpl/ 
 
 The Matrix.org Foundation copy of the project will be archived. We don't expect any changes are needed by system administrators. Any updates will be communicated via our usual announcements channels and we are striving to make this as seamless as possible.
 
@@ -3177,7 +3177,7 @@ Changes in [1.11.4](https://github.com/vector-im/element-desktop/releases/tag/v1
 ## 🔒 Security
 * Fixes for [CVE-2022-36059](https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=CVE%2D2022%2D36059) and [CVE-2022-36060](https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=CVE%2D2022%2D36060)
 
-Learn more about what we've been up to at https://element.io/blog/element-web-desktop-1-11-4-a-security-update-deferred-dms-and-more/
+Learn more about what we've been up to at https://knapp-seligenstadt.de/blog/element-web-desktop-1-11-4-a-security-update-deferred-dms-and-more/
 Find more details of the vulnerabilities at https://matrix.org/blog/2022/08/31/security-releases-matrix-js-sdk-19-4-0-and-matrix-react-sdk-3-53-0
 
 ## ✨ Features

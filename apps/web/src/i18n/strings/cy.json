@@ -627,7 +627,7 @@
         "stop_voice_message": "Stopio recordio",
         "voice_message_button": "Neges Llais"
     },
-    "console_dev_note": "Os ydych chi'n gwybod beth rydych chi'n ei wneud, mae Element yn raglen cod agored, gwnewch yn siŵr eich bod chi'n edrych ar ein GitHub ( https://github.com/vector-im/element-web/ ) a chyfrannu!",
+    "console_dev_note": "Os ydych chi'n gwybod beth rydych chi'n ei wneud, mae PrivatCloud Chat yn raglen cod agored, gwnewch yn siŵr eich bod chi'n edrych ar ein GitHub ( https://github.com/vector-im/element-web/ ) a chyfrannu!",
     "console_scam_warning": "Os dywedodd rhywun wrthych am gopïo/gludo rhywbeth yma, mae'n debygol iawn eich bod yn cael eich twyllo!",
     "console_wait": "Arhoswch!",
     "create_room": {
@@ -841,7 +841,7 @@
         "setting_definition": "Gosod  diffiniad:",
         "setting_id": "Gosod  ID",
         "settings": {
-            "elementCallUrl": "URL Galwad Element"
+            "elementCallUrl": "URL Galwad PrivatCloud Chat"
         },
         "settings_explorer": "Archwiliwr gosodiadau",
         "show_empty_content_events": "Dangos digwyddiadau gyda chynnwys gwag",
@@ -1459,7 +1459,7 @@
         "bridge_state_workspace": "Gweithle: <networkLink/>",
         "click_for_info": "Cliciwch am fwy o wybodaeth",
         "currently_experimental": "Arbrofol ar hyn o bryd.",
-        "element_call_video_rooms": "Ystafelloedd fideo Element Call",
+        "element_call_video_rooms": "Ystafelloedd fideo PrivatCloud Call",
         "encrypted_state_events": "Digwyddiadau cyflwr wedi'u hamgryptio (MSC4362)",
         "encrypted_state_events_description": "Yn galluogi cefnogaeth arbrofol ar gyfer amgryptio digwyddiadau cyflwr, sy'n cuddio metadata fel enwau ystafelloedd a phynciau o'r gweinydd. Bydd y metadata hwn hefyd yn cael ei guddio rhag pobl sy'n ymuno ag ystafelloedd yn ddiweddarach, a phobl nad yw eu cleientiaid yn cefnogi MSC4362.",
         "exclude_insecure_devices": "Gwahardd dyfeisiau anniogel wrth anfon/derbyn negeseuon",
@@ -2906,13 +2906,13 @@
             "auto_gain_control": "Rheolaeth ennill awtomatig",
             "dialog_title": "<strong>Gosodiadau:</strong> Llais a Fideo",
             "echo_cancellation": "Diddymu adlais",
-            "echo_cancellation_description": "Yn tynnu atseinio o fewnbwn eich meicroffon yn ystod galwadau. Mae'r gosodiad hwn hefyd yn berthnasol i Element Call.",
+            "echo_cancellation_description": "Yn tynnu atseinio o fewnbwn eich meicroffon yn ystod galwadau. Mae'r gosodiad hwn hefyd yn berthnasol i PrivatCloud Call.",
             "enable_fallback_ice_server": "Caniatáu gweinydd cymorth galwadau wrth gefn (%(server)s)",
             "enable_fallback_ice_server_description": "Dim ond os nad yw eich gweinydd cartref yn cynnig un y mae'n berthnasol. Byddai eich cyfeiriad IP yn cael ei rannu yn ystod galwad.",
             "mirror_local_feed": "Drychu'r ffrwd fideo lleol",
             "missing_permissions_prompt": "I gymryd rhan mewn galwadau, rhowch ganiatâd i %(brand)s gael mynediad at eich dyfais sain a fideo.",
             "noise_suppression": "Lleihau sain",
-            "noise_suppression_description": "Yn lleihau sŵn cefndir yn eich mewnbwn meicroffon yn ystod galwadau. Mae'r gosodiad hwn hefyd yn berthnasol i Element Call.",
+            "noise_suppression_description": "Yn lleihau sŵn cefndir yn eich mewnbwn meicroffon yn ystod galwadau. Mae'r gosodiad hwn hefyd yn berthnasol i PrivatCloud Call.",
             "request_permissions": "Cais",
             "title": "Llais a Fideo",
             "video_input_empty": "Dim camerau gwe wedi'u canfod",
@@ -3750,7 +3750,7 @@
         "disabled_no_perms_start_video_call": "Nid oes gennych ganiatâd i ddechrau galwadau fideo",
         "disabled_no_perms_start_voice_call": "Nid oes gennych ganiatâd i ddechrau galwadau llais",
         "disabled_ongoing_call": "Galwad cyfredol",
-        "element_call": "Galwad Element",
+        "element_call": "Galwad PrivatCloud Chat",
         "enable_camera": "Trowch y camera ymlaen",
         "enable_microphone": "Dad-dewi meicroffon",
         "expand": "Dychwelyd i'r alwad",

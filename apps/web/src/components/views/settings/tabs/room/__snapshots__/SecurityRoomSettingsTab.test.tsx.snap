@@ -19,7 +19,7 @@ exports[`<SecurityRoomSettingsTab /> > history visibility > uses shared as defau
         Changes won't affect past messages, only new ones. 
         <a
           class="mx_ExternalLink"
-          href="https://element.io/en/help#e2ee-history-sharing"
+          href="https://knapp-seligenstadt.de/en/help#e2ee-history-sharing"
           rel="noreferrer noopener"
           target="_blank"
         >

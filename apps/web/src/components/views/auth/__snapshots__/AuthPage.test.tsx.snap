@@ -26,7 +26,7 @@ exports[`<AuthPage /> > should match snapshot 1`] = `
       role="contentinfo"
     >
       <a
-        href="https://element.io/blog"
+        href="https://knapp-seligenstadt.de/blog"
         rel="noreferrer noopener"
         target="_blank"
       >

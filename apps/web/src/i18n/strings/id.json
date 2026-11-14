@@ -624,7 +624,7 @@
         "stop_voice_message": "Hentikan merekam",
         "voice_message_button": "Pesan Suara"
     },
-    "console_dev_note": "Jika Anda tahu apa yang Anda lakukan, Element itu sumber-terbuka, pastikan untuk mengunjungi GitHub kami (https://github.com/vector-im/element-web/) dan berkontribusi!",
+    "console_dev_note": "Jika Anda tahu apa yang Anda lakukan, PrivatCloud Chat itu sumber-terbuka, pastikan untuk mengunjungi GitHub kami (https://github.com/vector-im/element-web/) dan berkontribusi!",
     "console_scam_warning": "Jika seseorang membilangi Anda untuk salin/tempel sesuatu di sini, mungkin saja Anda sedang ditipu!",
     "console_wait": "Tunggu!",
     "create_room": {
@@ -837,7 +837,7 @@
         "setting_definition": "Definisi pengaturan:",
         "setting_id": "ID Pengaturan",
         "settings": {
-            "elementCallUrl": "URL Element Call"
+            "elementCallUrl": "URL PrivatCloud Call"
         },
         "settings_explorer": "Penelusur pengaturan",
         "show_empty_content_events": "Tampilkan peristiwa dengan isi kosong",
@@ -1065,11 +1065,11 @@
         "hs_blocked": "Homeserver ini telah diblokir oleh administratornya.",
         "invalid_configuration_mixed_server": "Konfigurasi tidak valid: default_hs_url tidak dapat ditentukan bersama dengan default_server_name atau default_server_config",
         "invalid_configuration_no_server": "Konfigurasi tidak absah: server bawaan belum ditentukan.",
-        "invalid_json": "Konfigurasi Element Anda berisi JSON yang tidak absah. Mohon perbaiki masalahnya dan muat ulang laman ini.",
+        "invalid_json": "Konfigurasi PrivatCloud Chat Anda berisi JSON yang tidak absah. Mohon perbaiki masalahnya dan muat ulang laman ini.",
         "invalid_json_detail": "Pesan dari pengurai adalah: %(message)s",
         "invalid_json_generic": "JSON tidak absah",
         "mau": "Homeserver ini telah mencapai batasnya Pengguna Aktif Bulanan.",
-        "misconfigured": "Anda salah mengatur Element",
+        "misconfigured": "Anda salah mengatur PrivatCloud Chat",
         "mixed_content": "Tidak dapat terhubung ke homeserver melalui HTTP ketika URL di browser berupa HTTPS. Gunakan HTTPS atau <a>aktifkan skrip yang tidak aman</a>.",
         "non_urgent_echo_failure_toast": "Server Anda tidak menanggapi beberapa <a>permintaan</a>.",
         "resource_limits": "Homeserver ini telah melebihi batas sumber dayanya.",
@@ -1446,7 +1446,7 @@
         "bridge_state_workspace": "Ruang kerja: <networkLink/>",
         "click_for_info": "Klik untuk info lanjut",
         "currently_experimental": "Saat ini masih dalam uji coba.",
-        "element_call_video_rooms": "Ruangan video Element Call",
+        "element_call_video_rooms": "Ruangan video PrivatCloud Call",
         "encrypted_state_events": "Peristiwa status terenkripsi (MSC4362)",
         "encrypted_state_events_description": "Memungkinkan dukungan eksperimental untuk mengenkripsi peristiwa status, yang menyembunyikan metadata seperti nama ruangan dan topik dari server. Metadata ini juga akan disembunyikan dari orang-orang yang bergabung ke ruangan nanti, serta orang-orang yang kliennya tidak mendukung MSC4362.",
         "exclude_insecure_devices": "Kecualikan perangkat tidak aman ketika mengirim/menerima pesan",
@@ -3701,7 +3701,7 @@
         "disabled_no_perms_start_video_call": "Anda tidak memiliki izin untuk memulai panggilan video",
         "disabled_no_perms_start_voice_call": "Anda tidak memiliki izin untuk memulai panggilan suara",
         "disabled_ongoing_call": "Panggilan sedang berlangsung",
-        "element_call": "Element Call",
+        "element_call": "PrivatCloud Call",
         "enable_camera": "Nyalakan kamera",
         "enable_microphone": "Suarakan mikrofon",
         "expand": "Kembali ke panggilan",

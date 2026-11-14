@@ -568,7 +568,7 @@
         "stop_voice_message": "Ferma la registrazione",
         "voice_message_button": "Messaggio vocale"
     },
-    "console_dev_note": "Se sai quello che stai facendo, Element è open source, assicurati di controllare il nostro GitHub (https://github.com/vector-im/element-web/) e contribuisci!",
+    "console_dev_note": "Se sai quello che stai facendo, PrivatCloud Chat è open source, assicurati di controllare il nostro GitHub (https://github.com/vector-im/element-web/) e contribuisci!",
     "console_scam_warning": "Se qualcuno ti ha detto di copiare/incollare qualcosa qui, è molto probabile che ti stia truffando!",
     "console_wait": "Aspetta!",
     "create_room": {
@@ -1222,7 +1222,7 @@
         "bridge_state_workspace": "Spazio di lavoro: <networkLink/>",
         "click_for_info": "Clicca per altre info",
         "currently_experimental": "Al momento è sperimentale.",
-        "element_call_video_rooms": "Stanze video di Element Call",
+        "element_call_video_rooms": "Stanze video di PrivatCloud Call",
         "experimental_description": "Ti senti di sperimentare? Prova le nostre ultime idee in sviluppo. Queste funzioni non sono complete; potrebbero essere instabili, cambiare o essere scartate. <a>Maggiori informazioni</a>.",
         "experimental_section": "Anteprime",
         "feature_wysiwyg_composer_description": "Usa il rich text invece del Markdown nel compositore di messaggi.",
@@ -3218,7 +3218,7 @@
         "disabled_no_perms_start_video_call": "Non hai il permesso di avviare videochiamate",
         "disabled_no_perms_start_voice_call": "Non hai il permesso di avviare chiamate",
         "disabled_ongoing_call": "Chiamata in corso",
-        "element_call": "Element Call",
+        "element_call": "PrivatCloud Call",
         "enable_camera": "Accendi la fotocamera",
         "enable_microphone": "Riaccendi il microfono",
         "expand": "Torna alla chiamata",

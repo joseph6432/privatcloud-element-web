@@ -241,9 +241,7 @@ class FilePanel extends React.Component<IProps, IState> {
                             {},
                             {
                                 a: (sub) => (
-                                    <a href="#/register" key="sub">
-                                        {sub}
-                                    </a>
+                                    <p>Registrierung deaktiviert</p>
                                 ),
                             },
                         )}

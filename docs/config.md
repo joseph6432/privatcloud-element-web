@@ -164,9 +164,9 @@ complete re-branding/private labeling, a more personalised experience can be ach
     1. `title`: Required. Title to show at the top of the notice.
     2. `description`: Required. The description to use for the notice.
     3. `show_once`: Optional. If true then the notice will only be shown once per device.
-18. `help_url`: The URL to point users to for help with the app, defaults to `https://element.io/help`.
-19. `help_encryption_url`: The URL to point users to for help with encryption, defaults to `https://element.io/help#encryption`.
-20. `help_key_storage_url`: The URL to point users to for help with key storage, defaults to `https://element.io/help#encryption5`.
+18. `help_url`: The URL to point users to for help with the app, defaults to `https://knapp-seligenstadt.de/help`.
+19. `help_encryption_url`: The URL to point users to for help with encryption, defaults to `https://knapp-seligenstadt.de/help#encryption`.
+20. `help_key_storage_url`: The URL to point users to for help with key storage, defaults to `https://knapp-seligenstadt.de/help#encryption5`.
 21. `force_verification`: If true, users must verify new logins (eg. with another device / their recovery key). Defaults to true.
 
 ### `desktop_builds` and `mobile_builds`
@@ -185,7 +185,7 @@ Starting with `desktop_builds`, the following sub-properties are available:
 6. `url_win64arm`: Optional. Direct link to download Windows ARM 64-bit desktop app.
 7. `url_linux`: Optional. Direct link to download Linux desktop app.
 
-When `desktop_builds` is not specified at all, the app will assume desktop downloads are available from https://element.io
+When `desktop_builds` is not specified at all, the app will assume desktop downloads are available from https://knapp-seligenstadt.de
 
 For `mobile_builds`, the following subproperties are available:
 
@@ -220,7 +220,7 @@ Starting with `branding`, the following subproperties are available:
 
 1. `welcome_background_url`: When a string, the URL for the full-page image background of the login, registration, and welcome
    pages. This property can additionally be an array to have the app choose an image at random from the selections.
-2. `logo_link_url`: When rendering the a brand Logo, if it is linkified, this is the link it should direct to. Defaults to `https://element.io`.
+2. `logo_link_url`: When rendering the a brand Logo, if it is linkified, this is the link it should direct to. Defaults to `https://knapp-seligenstadt.de`.
 3. `auth_header_logo_url`: A URL to the logo used on the login, registration, etc pages.
 4. `auth_footer_links`: A list of links to add to the footer during login, registration, etc. Each entry must have a `text` and
    `url` property.

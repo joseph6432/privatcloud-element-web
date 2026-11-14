@@ -421,7 +421,7 @@
             "no_participants": "Personne ne participe à cet appel",
             "participants": "Participants",
             "status": "%(roomId)s · intention %(intent)s · %(state)s · thème %(theme)s · langue %(language)s",
-            "title": "Element Call (mock)",
+            "title": "PrivatCloud Call (mock)",
             "unknown_room": "Salon inconnu %(roomId)s",
             "unmute_audio": "Réactiver le son",
             "unmute_video": "Réactiver la vidéo"
