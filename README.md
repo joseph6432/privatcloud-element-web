@@ -1,5 +1,6 @@
 This is a modified fork of Element Web by New Vector Ltd (https://github.com/element-hq/element-web). 
-Modifications: renamed to privatcloud chat, changed branding/icons. Many thanks for his afford!
+Modifications: renamed to privatcloud chat, changed branding/icons, restricting login to specific SSO Servers. 
+Many thanks for the efford!
 # Element
 
 Element (formerly known as Vector and Riot) is a Matrix web & desktop client built using the [Matrix
