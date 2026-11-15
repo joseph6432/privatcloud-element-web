@@ -20,7 +20,7 @@ export const DEFAULTS = {
     brand: "PrivatCloud Chat",
     branding: {
         logo_link_url: "https://knapp-seligenstadt.de",
-        auth_header_logo_url: "https://api.knapp-seligenstadt.de/img/logov2.png",
+        auth_header_logo_url: "https://api.knapp-seligenstadt.de/img/logo.png",
         welcome_background_url: "https://cdn.pixabay.com/photo/2017/03/31/07/18/seligenstadt-2190576_1280.jpg",
     },
     help_url: "https://knapp-seligenstadt.de/help",
@@ -36,7 +36,7 @@ export const DEFAULTS = {
         preferred_domain: "meet.element.io",
     },
     element_call: {
-        brand: "Element Call",
+        brand: "PrivatCloud Call",
     },
 
     // @ts-ignore - we deliberately use the camelCase version here so we trigger
